@@ -1,0 +1,1 @@
+print "This statement only prints with Python 2.7"
